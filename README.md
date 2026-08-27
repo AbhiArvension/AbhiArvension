@@ -7,9 +7,22 @@
 <p align="center">
   <a href="https://linkedin.com/in/abhi-asok-09439788"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:abhiasok@rocketmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://buymeacoffee.com/abhiasok"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee"></a>
   <a href="https://www.npmjs.com/~abhiarvension"><img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="NPM"></a>
   <a href="https://github.com/AbhiArvension?tab=packages"><img src="https://img.shields.io/badge/GitHub_Packages-2088FF?style=for-the-badge&logo=githubpackages&logoColor=white" alt="GitHub Packages"></a>
   <a href="https://github.com/AbhiArvension"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+</p>
+
+---
+
+### ☕ Support My Open-Source Work
+
+If you find **TSON** or any of my open-source database SDKs helpful, consider buying me a coffee to support continued development!
+
+<p align="center">
+  <a href="https://buymeacoffee.com/abhiasok" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 260px !important;" >
+  </a>
 </p>
 
 ---
@@ -108,6 +121,7 @@
 ### 📫 Connect With Me
 
 - 🌐 **Company Website**: [https://arvension.in](https://arvension.in)
+- ☕ **Buy Me A Coffee**: [buymeacoffee.com/abhiasok](https://buymeacoffee.com/abhiasok)
 - 💼 **LinkedIn**: [linkedin.com/in/abhi-asok-09439788](https://www.linkedin.com/in/abhi-asok-09439788/)
 - 📧 **Direct Email**: [abhiasok@rocketmail.com](mailto:abhiasok@rocketmail.com)
 - 📞 **Phone / WhatsApp**: +91 9142125724
