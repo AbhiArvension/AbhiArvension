@@ -8,6 +8,7 @@
   <a href="https://linkedin.com/in/abhi-asok-09439788"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:abhiasok@rocketmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://www.npmjs.com/~abhiarvension"><img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="NPM"></a>
+  <a href="https://github.com/AbhiArvension?tab=packages"><img src="https://img.shields.io/badge/GitHub_Packages-2088FF?style=for-the-badge&logo=githubpackages&logoColor=white" alt="GitHub Packages"></a>
   <a href="https://github.com/AbhiArvension"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 </p>
 
@@ -22,24 +23,36 @@
 
 ---
 
-### 📦 Published Open-Source NPM TSON Ecosystem
+### 📦 Published TSON Open-Source Ecosystem (15 Packages)
 
 > **The TSON Database Suite** cuts prompt input & output generation costs in half for Gemini, OpenAI, Claude, and Llama!
 
-| Package Name | Description | Target Database / Data Store | NPM Link |
+#### 👑 1. Universal & Unified Bi-Directional SDKs
+
+| Package Name | GitHub Source Repo | Target Database / Data Store | NPM Registry |
 | :--- | :--- | :--- | :--- |
-| **`universal-db-tson`** 👑 | **Universal Meta-SDK with Auto-Engine Detection** | All Database Engines | [![npm](https://img.shields.io/npm/v/universal-db-tson?color=blue)](https://www.npmjs.com/package/universal-db-tson) |
-| **`mongo-tson-sdk`** 🍃 | Unified Bi-Directional MongoDB & Mongoose SDK | MongoDB, Mongoose, Atlas | [![npm](https://img.shields.io/npm/v/mongo-tson-sdk?color=green)](https://www.npmjs.com/package/mongo-tson-sdk) |
-| **`psql-tson-sdk`** 🐘 | Unified Bi-Directional PostgreSQL Native SDK | `pg`, Supabase, Neon | [![npm](https://img.shields.io/npm/v/psql-tson-sdk?color=blue)](https://www.npmjs.com/package/psql-tson-sdk) |
-| **`redis-tson-sdk`** ⚡ | Unified Bi-Directional Redis SDK | Redis, ioredis, RedisJSON | [![npm](https://img.shields.io/npm/v/redis-tson-sdk?color=red)](https://www.npmjs.com/package/redis-tson-sdk) |
-| **`dynamo-tson-sdk`** ☁️ | Unified Bi-Directional AWS DynamoDB SDK | AWS SDK v3, DocumentClient | [![npm](https://img.shields.io/npm/v/dynamo-tson-sdk?color=orange)](https://www.npmjs.com/package/dynamo-tson-sdk) |
-| **`firestore-tson-sdk`** 🔥 | Unified Bi-Directional Cloud Firestore SDK | Firebase v9/v10, Admin SDK | [![npm](https://img.shields.io/npm/v/firestore-tson-sdk?color=yellow)](https://www.npmjs.com/package/firestore-tson-sdk) |
-| **`elasticsearch-tson-sdk`** 🔍 | Unified Bi-Directional Elasticsearch SDK | Elasticsearch, OpenSearch | [![npm](https://img.shields.io/npm/v/elasticsearch-tson-sdk?color=teal)](https://www.npmjs.com/package/elasticsearch-tson-sdk) |
-| **`csv-tson-sdk`** 📊 | Unified Bi-Directional CSV & DataFrame SDK | CSV files, Spreadsheets, Pandas | [![npm](https://img.shields.io/npm/v/csv-tson-sdk?color=purple)](https://www.npmjs.com/package/csv-tson-sdk) |
-| **`sql-tson-sdk`** ⚙️ | Unified Bi-Directional Multi-SQL SDK | Postgres, MySQL, SQLite, MSSQL | [![npm](https://img.shields.io/npm/v/sql-tson-sdk?color=blue)](https://www.npmjs.com/package/sql-tson-sdk) |
-| **`tson-sql`** 🧩 | TSON to Parameterized SQL Query Generator | SQL Query Generator | [![npm](https://img.shields.io/npm/v/tson-sql?color=blue)](https://www.npmjs.com/package/tson-sql) |
-| **`psql-tson`** 🧩 | PostgreSQL QueryResult to TSON Converter | PostgreSQL Native Reader | [![npm](https://img.shields.io/npm/v/psql-tson?color=blue)](https://www.npmjs.com/package/psql-tson) |
-| **`tson-psql`** 🧩 | TSON to PostgreSQL Native Query Generator | PostgreSQL Query Generator | [![npm](https://img.shields.io/npm/v/tson-psql?color=blue)](https://www.npmjs.com/package/tson-psql) |
+| **`universal-db-tson`** 👑 | [AbhiArvension/universal-db-tson](https://github.com/AbhiArvension/universal-db-tson) | **All Database Engines (Auto-Detect)** | [![npm](https://img.shields.io/npm/v/universal-db-tson?color=blue)](https://www.npmjs.com/package/universal-db-tson) |
+| **`mongo-tson-sdk`** 🍃 | [AbhiArvension/mongo-tson-sdk](https://github.com/AbhiArvension/mongo-tson-sdk) | MongoDB, Mongoose, Atlas | [![npm](https://img.shields.io/npm/v/mongo-tson-sdk?color=green)](https://www.npmjs.com/package/mongo-tson-sdk) |
+| **`psql-tson-sdk`** 🐘 | [AbhiArvension/psql-tson-sdk](https://github.com/AbhiArvension/psql-tson-sdk) | PostgreSQL, `pg`, Supabase, Neon | [![npm](https://img.shields.io/npm/v/psql-tson-sdk?color=blue)](https://www.npmjs.com/package/psql-tson-sdk) |
+| **`redis-tson-sdk`** ⚡ | [AbhiArvension/redis-tson-sdk](https://github.com/AbhiArvension/redis-tson-sdk) | Redis, ioredis, RedisJSON | [![npm](https://img.shields.io/npm/v/redis-tson-sdk?color=red)](https://www.npmjs.com/package/redis-tson-sdk) |
+| **`dynamo-tson-sdk`** ☁️ | [AbhiArvension/dynamo-tson-sdk](https://github.com/AbhiArvension/dynamo-tson-sdk) | AWS DynamoDB (AttributeValues) | [![npm](https://img.shields.io/npm/v/dynamo-tson-sdk?color=orange)](https://www.npmjs.com/package/dynamo-tson-sdk) |
+| **`firestore-tson-sdk`** 🔥 | [AbhiArvension/firestore-tson-sdk](https://github.com/AbhiArvension/firestore-tson-sdk) | Firebase Cloud Firestore | [![npm](https://img.shields.io/npm/v/firestore-tson-sdk?color=yellow)](https://www.npmjs.com/package/firestore-tson-sdk) |
+| **`elasticsearch-tson-sdk`** 🔍 | [AbhiArvension/elasticsearch-tson-sdk](https://github.com/AbhiArvension/elasticsearch-tson-sdk) | Elasticsearch & OpenSearch | [![npm](https://img.shields.io/npm/v/elasticsearch-tson-sdk?color=teal)](https://www.npmjs.com/package/elasticsearch-tson-sdk) |
+| **`csv-tson-sdk`** 📊 | [AbhiArvension/csv-tson-sdk](https://github.com/AbhiArvension/csv-tson-sdk) | CSV Files, Spreadsheets, Pandas | [![npm](https://img.shields.io/npm/v/csv-tson-sdk?color=purple)](https://www.npmjs.com/package/csv-tson-sdk) |
+| **`sql-tson-sdk`** ⚙️ | [AbhiArvension/sql-tson-sdk](https://github.com/AbhiArvension/sql-tson-sdk) | Multi-SQL (Postgres/MySQL/SQLite) | [![npm](https://img.shields.io/npm/v/sql-tson-sdk?color=blue)](https://www.npmjs.com/package/sql-tson-sdk) |
+
+---
+
+#### 🧩 2. Single-Directional Converters & Query Generators
+
+| Package Name | Type | GitHub Source Repo | Functionality |
+| :--- | :--- | :--- | :--- |
+| **`mongo-tson`** | Reader | [AbhiArvension/mongo-tson](https://github.com/AbhiArvension/mongo-tson) | MongoDB Documents $\rightarrow$ TSON Prompt Context |
+| **`tson-mongo`** | Writer | [AbhiArvension/tson-mongo](https://github.com/AbhiArvension/tson-mongo) | TSON AI Output $\rightarrow$ MongoDB Filters & Payloads |
+| **`sql-tson`** | Reader | [AbhiArvension/sql-tson](https://github.com/AbhiArvension/sql-tson) | SQL Query Results $\rightarrow$ TSON Prompt Context |
+| **`tson-sql`** | Writer | [AbhiArvension/tson-sql](https://github.com/AbhiArvension/tson-sql) | TSON AI Output $\rightarrow$ Parameterized SQL Statements |
+| **`psql-tson`** | Reader | [AbhiArvension/psql-tson](https://github.com/AbhiArvension/psql-tson) | PostgreSQL `QueryResult` $\rightarrow$ TSON Prompt Context |
+| **`tson-psql`** | Writer | [AbhiArvension/tson-psql](https://github.com/AbhiArvension/tson-psql) | TSON AI Output $\rightarrow$ PostgreSQL Native `$1, $2` Queries |
 
 ---
 
@@ -99,6 +112,7 @@
 - 📧 **Direct Email**: [abhiasok@rocketmail.com](mailto:abhiasok@rocketmail.com)
 - 📞 **Phone / WhatsApp**: +91 9142125724
 - 📦 **NPM Profile**: [npmjs.com/~abhiarvension](https://www.npmjs.com/~abhiarvension)
+- 📦 **GitHub Packages Tab**: [github.com/AbhiArvension?tab=packages](https://github.com/AbhiArvension?tab=packages)
 
 ---
 
